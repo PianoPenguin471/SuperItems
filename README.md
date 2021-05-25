@@ -8,3 +8,5 @@
 - Grappling Hook
 - Aspect Of The End
 - Silent Death
+## Commands
+- /superitems     brings up gui with all superitems currently registerred
