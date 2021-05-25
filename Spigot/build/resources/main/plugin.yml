@@ -1,0 +1,8 @@
+name: SuperItems
+version: 1.0
+main: pianopenguin471.SuperItems
+api-version: 1.16
+author: PianoPenguin471
+
+commands:
+  superitems:
